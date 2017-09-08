@@ -35,3 +35,8 @@ words: boat,book,vote,seat,backpack,partition,groundhog
 spring:
   profiles: noun-2
 words: icicle,refrigerator,blizzard,snowball
+
+---
+wordConfig:
+  preamble: The lucky word is
+  luckyWord: Irish
